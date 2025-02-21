@@ -1,7 +1,7 @@
 
 public class MusicBox {
 
-    // Variables
+    // Variable
     private String songID;
     private char isSongPremium;
     public String songTitle;
