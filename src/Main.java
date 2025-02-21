@@ -11,7 +11,7 @@ public class Main{
 
         /* Repeat the above code to create another object  
          * Pass different parameters to the MusicBox constructor, but initialise premiumSong to N and when calling the
-         * playSong method, pass ads parameter as just 
+         * playSong method, pass ads parameter as just 1
          * 
          * 
         */
